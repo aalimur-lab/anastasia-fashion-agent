@@ -1,0 +1,7 @@
+{
+  "name": "Anastasia - Fashion Voice Agent",
+  "description": "A professional AI voice agent representing Anastasia Alimuradova, a fashion business and marketing expert.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
